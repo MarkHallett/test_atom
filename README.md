@@ -1,3 +1,3 @@
-# test_atoma
+# test_atom
 
 first words
